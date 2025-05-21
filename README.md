@@ -23,7 +23,9 @@ To install the package from source:
 
 ```r
 install.packages("MAPSPEN.tar.gz", repos = NULL, type = "source")
+
  Or clone this repository and install from local:
+
 git clone https://github.com/Yasaman621-laval/MAPSPEN.git
 setwd("MAPSPEN")
 install.packages(".", repos = NULL, type = "source")
@@ -35,7 +37,7 @@ library(MAPSPEN)
 # summaryStats: matrix of Z-scores across populations
 # LDmat: list of population-specific LD matrices
 # Output: posterior mean of SNP effect sizes and predicted PRS
-
+```
 
 📚 Citation
 If you use this package in your research, please cite:
