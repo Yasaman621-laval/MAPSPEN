@@ -59,9 +59,6 @@ Each GWAS file (one per population) should contain a single tab-delimited table 
 
 This format matches the standard LDSC and MiXeR input formats. You may optionally preprocess raw GWAS files using `munge_sumstats.py` from [LDSC](https://github.com/bulik/ldsc).
 
-> ⚠️ For case/control studies:  
-> Use `neff = 4 / (1/ncase + 1/ncontrol)` for the N column to adjust for imbalanced sample sizes.
-
 ---
 
 ### 🌐 Public Summary Statistics (Examples)
