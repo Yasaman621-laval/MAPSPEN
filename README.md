@@ -1,6 +1,6 @@
 # MAPSPEN
 
-**MAPSPEN** (Multi-Ancestry Posterior Shrinkage Penalization) is a novel statistical method for constructing polygenic risk scores (PRS) using GWAS summary statistics across multiple populations. This R package accounts for heterogeneity in genetic architecture by applying adaptive penalization informed by linkage disequilibrium (LD) patterns and cross-population effect distributions.
+**MAPSPEN** (Multi-Ancestry Posterior Shrinkage Penalization) is a novel statistical method for constructing polygenic risk scores (PRS) using GWAS summary statistics across multiple populations or traits. This R package accounts for heterogeneity in genetic architecture by applying adaptive penalization informed by linkage disequilibrium (LD) patterns and cross-population effect distributions.
 
 > Developed and maintained by [Yasaman Tahernezhad](https://github.com/Yasaman621-laval) as part of her PhD thesis.
 
