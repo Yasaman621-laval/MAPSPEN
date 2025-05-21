@@ -10,7 +10,7 @@
 
 - Estimates population-specific PRS using only summary statistics
 - Adjusts for LD structure via penalized likelihood
-- Supports multi-population modeling (EUR, EAS, AFR, etc.)
+- Supports multi-population or traits modeling (EUR, EAS, AFR, etc.)
 - Incorporates genetic correlation and effect size variance across ancestries
 - Profile likelihood-based hyperparameter tuning
 - Benchmarked against PRS-CSX using real and simulated genotype data
