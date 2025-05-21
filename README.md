@@ -100,5 +100,3 @@ If you use this package in your research, please cite:
 Tahernezhad, Y. (2025). Development of Novel Statistical Methods for Genetic Architecture Estimation and Polygenic Risk Score Construction Across Traits, Populations, and Sexes. PhD Thesis, Université Laval.
 
 ---
-
-Let me know if you’d like a shorter version for CRAN-style, or want me to generate the matching `DESCRIPTION` file or vignette outline.
