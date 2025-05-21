@@ -1,0 +1,13 @@
+Package: MAPSPEN
+Type: Package
+Title: Building polygenic risk prediction models based on summary
+        statistics of genome-wide association studies across populations/Traits
+Version: 8.2.0
+Date: 2025-05-05
+Author: Yasaman Tahernezhad - Ting-Huei Chen
+Maintainer: Yasaman Tahernezhad <Yasaman.Tahernezhad.1@gmail.com>
+Depends: R(>= 3.4.3), gtools
+Description: Shrinkage estimator for polygenic risk prediction models based on summary statistics of genome-wide association studies.
+License: GPL-3
+Packaged: 2025-05-05 20:55:43; Yasaman Tahernezhad
+NeedsCompilation: yes

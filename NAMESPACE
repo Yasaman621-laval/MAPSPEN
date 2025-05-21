@@ -1,0 +1,6 @@
+useDynLib(MAPSPEN)
+importFrom("stats", "median", "qnorm", "quantile")
+import(gtools)
+export(transPEN,PlinkLD_transform_addR,transConditionalU,GenPreR2_Chrs_saveScore)
+
+
