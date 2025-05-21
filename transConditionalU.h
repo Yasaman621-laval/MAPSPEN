@@ -1,0 +1,2 @@
+void transConditionalUC(double** summaryBetas,int* ldJ, int* dims, int** IndexMatrix, int* IndJ, double** ldvec, double** SDvec,  double** DensityU, double** JointBmatrix,
+   double** AllAn_i, double* Nvec, double* sqrt_det_Zcov,double *sqrt_det_Ai, double *sqrt_inv_det_An_i, double** A0, double** A0_inv, double** es_alphaMatrix, int** SharedPattern, int* numI, double* weight, double** Zcov_Inv, double** b0Matrix, double** esjointbetas, double** postEb1, double** postEb2, double* numvec);
