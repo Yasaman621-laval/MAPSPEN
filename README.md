@@ -39,7 +39,7 @@ library(MAPSPEN)
 # Output: posterior mean of SNP effect sizes and predicted PRS
 ```
 
-📚 Citation
+##📚 Citation
 If you use this package in your research, please cite:
 
 Tahernezhad, Y. (2025). Development of Novel Statistical Methods for Genetic Architecture Estimation and Polygenic Risk Score Construction Across Traits, Populations, and Sexes. PhD Thesis, Université Laval.
