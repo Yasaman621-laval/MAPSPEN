@@ -97,6 +97,6 @@ bzip2 -d w_hm3.snplist.bz2
 ##📚 Citation
 If you use this package in your research, please cite:
 
-Tahernezhad, Y. (2025). Development of Novel Statistical Methods for Genetic Architecture Estimation and Polygenic Risk Score Construction Across Traits, Populations, and Sexes. PhD Thesis, Université Laval.
+Tahernezhad, Y. (2025). DMAPSPEN: Multi-Ancestry Penalized Regression Framework for PRS Construction. PhD Thesis, Université Laval.
 
 ---
